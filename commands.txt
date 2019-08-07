@@ -1,0 +1,4 @@
+echo "Ejecuta los comandos de respaldo Proyecto"
+cd {/ruta/carpeta/donde/esta/el/proyecto}
+zip -r {/ruta/carpeta/donde/se almacena/el/respaldo/del/proyecto/zip/respaldo.zip} {nombre de carpeta}
+chmod 777 {{/ruta/carpeta/donde/se almacena/el/respaldo/del/proyecto/zip/respaldo.zip}}
