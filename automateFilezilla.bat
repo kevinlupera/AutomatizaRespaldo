@@ -1,4 +1,8 @@
 @echo on
+::Kevin Lupera
+::https://kevinlupera.github.io
+::https://github.com/kevinlupera
+
 :: Crea carpeta yyyyMMdd
 for /F "tokens=1-3 delims=/ " %%A in ('date/t') do (
 	set DateDay=%%B
